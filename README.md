@@ -1,23 +1,19 @@
-### Hi there 👋
+# Muhammad Fajrian
 
+👋 Hello! I'm Muhammad, a passionate Backend Developer with expertise in Java and Go. I love building scalable and efficient server-side applications that empower businesses and enhance user experiences.
 
-📈 My GitHub Stats
+## Skills
+- **Programming Languages:** Java, Go
+- **Frameworks:** Spring Boot, Quarkus, Gin, Echo
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools & Technologies:** Docker, Kubernetes, RESTful APIs, GraphQL
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MuhammadFajrian&show_icons=true&theme=gotham" alt="Muhammad Fajrian" />
+## About Me
+I thrive on solving complex problems and continuously learning new technologies. When I'm not coding, you can find me exploring the latest tech trends, contributing to open-source projects, or enjoying a good cup of coffee.
 
+## Connect with Me
+Feel free to reach out or connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-fajrian/)!
 
+---
 
-<!--
-**MuhammadFajrian/MuhammadFajrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am always open to collaboration and new opportunities. Let's build something amazing together!
